@@ -20798,6 +20798,4 @@ const harvardArt = {
   }
  ]
 }
-
-console.log(harvardArt);
 export default harvardArt;
