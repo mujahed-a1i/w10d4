@@ -14,7 +14,7 @@ function GalleryNavigation(props) {
            <NavLink key={gallery.id} to={`/galleries/${gallery.id}`}>
                 {gallery.name}
            </NavLink>
-           <br></br>
+           <br />
            </> 
         ))}
     </nav>
