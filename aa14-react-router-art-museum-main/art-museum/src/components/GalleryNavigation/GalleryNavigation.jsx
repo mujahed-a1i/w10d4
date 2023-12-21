@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom"
+import "./GalleryNavigation.css"
 
 function GalleryNavigation(props) {
     const galleries = Object.values(props.galleries)

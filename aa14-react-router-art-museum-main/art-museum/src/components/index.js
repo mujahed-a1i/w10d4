@@ -1,4 +1,4 @@
-import GalleryNavigation from "./GalleryNavigation";
+import GalleryNavigation from "./GalleryNavigation/GalleryNavigation";
 
 
 export default GalleryNavigation;
